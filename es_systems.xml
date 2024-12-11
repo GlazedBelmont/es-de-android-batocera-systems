@@ -24,6 +24,7 @@
         <platform>macintosh</platform>
         <theme>macintosh</theme>
     </system>
+    <system>
         <name>astrocde</name>
         <fullname>Bally Astrocade</fullname>
         <path>%ROMPATH%/astrocade</path>
